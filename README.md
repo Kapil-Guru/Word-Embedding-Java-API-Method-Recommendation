@@ -1,1 +1,1 @@
-# Word-Embedding-Java-API-Method-Recommendationco
+# Word-Embedding-Java-API-Method-Recommendation
